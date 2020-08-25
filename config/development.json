@@ -1,5 +1,4 @@
 {
-	"jwtPrivateKey": "unsecureKey",
 	"db": "mongodb://localhost/team-fines",
-	"requiresAuth": true
+	"port": 3900
 }
