@@ -1,3 +1,4 @@
 {
-	"jwtPrivateKey": "team-fines_jwtPrivateKey"
+	"jwtPrivateKey": "team-fines_jwtPrivateKey",
+	"db": "team-fines_db"
 }
